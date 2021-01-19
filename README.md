@@ -2,9 +2,6 @@
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://github.com/MrSev7en/Simple-WebSocket)
 
-🔰 A advanced console for windows users, with a lot functions. Of course is not finished, but I guess I wanna keep working at that.
-Coming Soon updates will come.
-
 ## What Is It?
 Created with purpose to be a "simple" websocket server with client side, I went deeper and create this project.
 See bellow some resources:
