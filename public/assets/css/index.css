@@ -1,0 +1,14 @@
+body {
+  position: absolute;
+
+  top: 0px;
+  left: 0px;
+
+  margin: auto;
+
+  background-color: #4287f5;
+
+  overflow-x: hidden;
+  overflow-y: hidden;
+  overflow: hidden;
+}
